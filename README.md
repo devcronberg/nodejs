@@ -1,2 +1,3 @@
-# nodejs
-Template for NodeJS
+# NodeJS
+
+Template for NodeJS in VSCode
